@@ -16,9 +16,10 @@ function App() {
     <React.Fragment>
       <Header/>
       <div className="container">
+        <h1>hello</h1>
         <Routes>
-          <Route exact path='/' element ={<Index/>}/>
-          <Route exact path="/lyrics/track/:id" element ={<Lyrics/>}/>
+          <Route exact path='/lyrics-finder-app/' element ={<Index/>}/>
+          <Route exact path="/lyrics-finder-app/lyrics/track/:id" element ={<Lyrics/>}/>
         </Routes>
       </div>
     </React.Fragment>

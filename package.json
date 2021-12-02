@@ -1,6 +1,6 @@
 {
-  "name": "lyricfinder",
-  "homepage": "https://rahulpatil99.github.io/lyricsfinder",
+  "name": "lyrics-finder-app",
+  "homepage": "https://rahulpatil99.github.io/lyrics-finder-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
