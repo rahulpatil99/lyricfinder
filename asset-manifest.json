@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lyricfinder/static/css/main.688bf4e2.chunk.css",
-    "main.js": "/lyricfinder/static/js/main.4a0e6dce.chunk.js",
-    "main.js.map": "/lyricfinder/static/js/main.4a0e6dce.chunk.js.map",
-    "runtime-main.js": "/lyricfinder/static/js/runtime-main.06072251.js",
-    "runtime-main.js.map": "/lyricfinder/static/js/runtime-main.06072251.js.map",
-    "static/js/2.c104c54d.chunk.js": "/lyricfinder/static/js/2.c104c54d.chunk.js",
-    "static/js/2.c104c54d.chunk.js.map": "/lyricfinder/static/js/2.c104c54d.chunk.js.map",
-    "static/js/3.3c3b23a6.chunk.js": "/lyricfinder/static/js/3.3c3b23a6.chunk.js",
-    "static/js/3.3c3b23a6.chunk.js.map": "/lyricfinder/static/js/3.3c3b23a6.chunk.js.map",
-    "index.html": "/lyricfinder/index.html",
-    "static/css/main.688bf4e2.chunk.css.map": "/lyricfinder/static/css/main.688bf4e2.chunk.css.map",
-    "static/js/2.c104c54d.chunk.js.LICENSE.txt": "/lyricfinder/static/js/2.c104c54d.chunk.js.LICENSE.txt"
+    "main.css": "/lyrics-finder-app/static/css/main.688bf4e2.chunk.css",
+    "main.js": "/lyrics-finder-app/static/js/main.bce15f45.chunk.js",
+    "main.js.map": "/lyrics-finder-app/static/js/main.bce15f45.chunk.js.map",
+    "runtime-main.js": "/lyrics-finder-app/static/js/runtime-main.49b544a6.js",
+    "runtime-main.js.map": "/lyrics-finder-app/static/js/runtime-main.49b544a6.js.map",
+    "static/js/2.00820498.chunk.js": "/lyrics-finder-app/static/js/2.00820498.chunk.js",
+    "static/js/2.00820498.chunk.js.map": "/lyrics-finder-app/static/js/2.00820498.chunk.js.map",
+    "static/js/3.9beed022.chunk.js": "/lyrics-finder-app/static/js/3.9beed022.chunk.js",
+    "static/js/3.9beed022.chunk.js.map": "/lyrics-finder-app/static/js/3.9beed022.chunk.js.map",
+    "index.html": "/lyrics-finder-app/index.html",
+    "static/css/main.688bf4e2.chunk.css.map": "/lyrics-finder-app/static/css/main.688bf4e2.chunk.css.map",
+    "static/js/2.00820498.chunk.js.LICENSE.txt": "/lyrics-finder-app/static/js/2.00820498.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.06072251.js",
-    "static/js/2.c104c54d.chunk.js",
+    "static/js/runtime-main.49b544a6.js",
+    "static/js/2.00820498.chunk.js",
     "static/css/main.688bf4e2.chunk.css",
-    "static/js/main.4a0e6dce.chunk.js"
+    "static/js/main.bce15f45.chunk.js"
   ]
 }
