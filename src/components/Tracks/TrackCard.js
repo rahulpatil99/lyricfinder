@@ -12,7 +12,6 @@ import './Track_card.css'
         <div className="card-body">
           <h5>{track.artist_name}</h5>
         </div>
-        {/* <p className="card-text"> */}
           <div className="row">
             <div className="col-md-8">
               <strong>
@@ -31,7 +30,6 @@ import './Track_card.css'
               </center>
             </div>
           </div>
-        {/* </p> */}
       </div>
     </div>
   )

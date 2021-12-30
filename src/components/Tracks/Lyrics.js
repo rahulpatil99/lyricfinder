@@ -30,32 +30,7 @@ const Lyrics = (props) => {
       })
       .catch(err => console.log(err));
   });
-  // componentDidMount() {
-    // console.log(this.props.match && this.props.match.params.param);
-  // }
-  // componentDidMount(){
-  //     const postID ="226936152";
-  //       axios.get(`https://corsanywhere.herokuapp.com/http://api.musixmatch.com/ws/1.1/track.lyrics.get?track_id=${postID}&apikey=${process.env.REACT_APP_LYRIC_KEY}`)
-  //     .then(res=> {
-  //     this.setState(
-  //     {
-  //       lyrics:res.data.message.body.lyrics});
-  //       return axios.get(`https://corsanywhere.herokuapp.com/http://api.musixmatch.com/ws/1.1/track.get?track_id=${postID}&apikey=${process.env.REACT_APP_LYRIC_KEY}`)
-  //     })
-  //     .then(res=> {
-  //       this.setState(
-  //         {
-  //         track:res.data.message.body.track
-  //       });
-  //     })
-  //     .catch(err=>console.log(err));
-  //     // }
-  // }
-            
-  // render() {
-    // const id = ({match})=>{ <h1>{match.params.id}</h1>};
-    // const {track,lyrics}  = this.state;
-    if(track === undefined || Object.keys(track).length===0 || lyrics=== undefined || Object.keys(lyrics).length===0){
+  if(track === undefined || Object.keys(track).length===0 || lyrics=== undefined || Object.keys(lyrics).length===0){
       return <Spinner/>
     }
     else{
@@ -91,10 +66,6 @@ const Lyrics = (props) => {
             </li>
             <li className="list-group-item">
               <strong>Release Date</strong>:{" "}
-              {/* <Moment format="MM/DD/YYYY"> */}
-              {/* {moment(new Date()).format("DD/MM/YYYY")} */}
-                {/* {track.track.first_release_date} */}
-              {/* </Moment> */}
             </li>
           </ul>
         </React.Fragment>
